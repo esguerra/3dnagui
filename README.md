@@ -8,7 +8,7 @@ Setup
 
 1. Clone the repository
 
-    git clone https://github.com/esguerra/3dnagui.git@
+       git clone https://github.com/esguerra/3dnagui.git@
 
 Usage
 -----
@@ -26,9 +26,9 @@ the resulting output file which will have a .out extension.
 To Do
 -----
 
-* [Add blocview functionality.
-* [Add color base-pairs by base-pair parameters.
-* [Add color base-steps by base-step parameters.
+* Add blocview functionality.
+* Add color base-pairs by base-pair parameters.
+* Add color base-steps by base-step parameters.
 
 Thanks for your interest!
 
