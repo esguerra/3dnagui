@@ -1,5 +1,5 @@
-                                     README
-                                     ======
+README
+======
 
 x3dna.py is a pymol plugin for integration of 3DNA functionality via GUI.
 
