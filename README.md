@@ -7,9 +7,11 @@ Setup
 -----
 
 1. Clone the repository
+
 ```
- git clone https://github.com/esguerra/3dnagui.git
+$ git clone https://github.com/esguerra/3dnagui.git
 ```
+
 Usage
 -----
 
